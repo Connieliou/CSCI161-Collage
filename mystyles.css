@@ -1,0 +1,168 @@
+#myname{
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+    text-decoration: underline; 
+    color:#CFF000;
+    font-size: 28px;
+    font-family:  'Courier New';
+    background-color: #FFCC99;
+}
+
+
+body{
+   background-color: #FFCC99;
+   margin:auto;
+}
+
+
+h3{
+    position:absolute;
+    padding-left:5px;
+    color:grey;
+    padding-top:2px;
+    }
+
+ #stamps img{
+    width:30%;
+    height: 300px;
+    border: dashed;
+    border-color: #CCFF33;
+    border-radius: 30px;
+    position: relative;
+    float:left;   
+    margin-top: 30px;
+    margin-bottom:10px;
+
+ }
+ figcaption{
+    float:left;
+    text-align: center;
+    margin-left: -260px;
+    font-family:  'Courier New';
+    color:#FF0099;
+    font-size:22px;
+     text-shadow: 2px 1px #000000;
+ }
+
+
+#name{
+    text-align: center;
+    text-decoration: overline;
+    color:#000000;
+    font-size: 28px;
+    font-family:  'Brush Script MT';
+    background-color: #FFCC99;
+}
+
+#gold img{
+    border:dashed 2px #780000;
+    border-radius: 25px;
+    position:relative;
+    margin-left: 15%;
+    margin-top: -5%;
+    float:left;
+    height:350px;
+    width:23%;
+    z-index: 10px;
+}
+#chain img{
+    border: dotted;
+    border-radius: 20px;
+    height:300px;
+    width:20%;
+     z-index: 50px;
+    position:relative;  
+    margin-left: 30%;
+    margin-top: -5%;
+    float:left;
+    z-index: 50px;
+    
+
+}
+#girl img {border:outset 5px;
+    border-radius: 5px;
+    position:relative;
+    height:400px;
+    margin-top: 20%;
+    margin-left: -50%;  
+      float:left;
+      z-index: 30px;
+     }
+
+#shorts img{
+border: solid 1px #333FFF;
+border-radius: 25px;
+height:300px;
+width: 25%;
+position:relative;
+margin-left: 65%;
+margin-top: -33%;
+z-index: 70px;
+float:left;}
+        
+
+#timbs img{border:inset #996633;
+    position:relative;
+height:400px;
+width: 40%;
+margin-left: 20%;
+z-index: 40px;
+    float:left;
+     
+}
+
+#lipstick img{border:solid;
+    position:relative;
+    margin-left: -85%;
+    margin-top: 18%;
+height:400px;
+width:30%;
+z-index: 50px;
+    float:left;
+}
+
+#buckethat img{border:outset #99CCCC;
+height:300px;
+width: 20%;
+position: relative;
+margin-left: 45%;
+margin-top:-91%;
+z-index: 10px;
+float:left;}
+
+
+
+#black img{border:double;
+height:300px;
+width: 25%;
+position:relative;
+z-index: 80px;
+    float:left;
+     margin-top:-20%;
+     margin-left: 60%;
+ }
+
+#cam img{
+    border:solid #003333;
+    border-radius: 20px;
+height:400px;
+width: 20%;
+position:relative;
+z-index: 20px;
+margin-right: 20%;
+    float:left;
+     margin-top:-20%;;
+
+}
+
+#shoes img{
+    border:double 5px #00CCFF;
+    border-radius: 5px;
+height:350px;
+width: 20%;
+position:relative;
+margin-left: 74%;
+z-index: 30px;
+    float:left;
+ margin-top:-72%;}
+
